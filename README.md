@@ -32,17 +32,6 @@ A comprehensive network security implementation for public transportation system
   - Real-time monitoring capabilities
   - Streamlined administration
 
-## 📁 Repository Contents
-- `simulation/` - Cisco Packet Tracer simulation files
-- `docs/` - Detailed documentation including:
-  - System architecture diagrams
-  - Security implementation guides
-  - Test results and analysis
-  - Configuration templates
-
-## 🔧 Setup and Configuration
-Detailed setup instructions and configuration guides are available in the `docs/` directory.
-
 ## 🛣️ Future Development
 - Cloud infrastructure integration
 - Advanced threat detection systems
@@ -57,11 +46,3 @@ This implementation follows industry best practices for network security, includ
 - Principle of least privilege
 - Regular security audits
 - Continuous monitoring
-
-## 📚 Documentation
-Complete documentation is available in the `docs/` directory, covering:
-- Network topology
-- Security measures
-- Implementation guidelines
-- Testing procedures
-- Troubleshooting guide
